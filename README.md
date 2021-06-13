@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Nghiem
 #### Hệ hệ Hệ
 
-hướng dẫn chi thuật ----< khai >: 
+Hướng dẫn chi thuật ----< khai >----: 
 - CÀI NODE JS THÌ LÊN MẠNG KIẾM OK
 - CẤU HÌNH MAVEN CHO JAVA CŨNG NHƯ TRÊN OK
 - IMPORT DATA VÔ LOCAL HOST WAMP HAY XAMPP ĐIỀU ĐC NHỚ PORT:3306 NHA (MySQl nha bro!)
@@ -18,7 +18,7 @@ hướng dẫn chi thuật ----< khai >:
 - + Rồi mở file Font-end(FE): npm start (nếu tự tin rằng node_module ko thiếu) sợ thì npm install
 - + Sợ thì npm install rồi mới npm start
 - + Sợ đụng port 9999 với thằng nào thì  trong đó có file .env r m đổi port ko thì npm start port 5555
-- Demo Host đang deploy OK
+- Demo Host https://pensive-archimedes-ed3a20.netlify.app/
     
     
 Còn này là 1 số hình ảnh của Web
